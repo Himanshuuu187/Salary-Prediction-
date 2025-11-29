@@ -23,8 +23,8 @@ m = lr.coef_
 b = lr.intercept_
 
 
-Experience = float(input("Enter your Years of Experience: "))
+# Experience = float(input("Enter your Years of Experience: "))
 
-result = m*Experience + b
+# result = m*Experience + b
 
-print("Your predicted Salary is: ",int(result[0][0]))
+# print("Your predicted Salary is: ",int(result[0][0]))
